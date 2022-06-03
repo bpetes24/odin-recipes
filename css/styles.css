@@ -1,0 +1,23 @@
+/*styles.css*/
+
+* {
+    font-family: "Times New Roman", "Georgia", serif;
+} /*Universal*/
+
+.heading {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+} /*.heading*/
+
+.text,
+.list {
+    font-size: larger;
+} /*.list*/
+
+.img {
+    height: auto;
+    width: 400px;
+}
